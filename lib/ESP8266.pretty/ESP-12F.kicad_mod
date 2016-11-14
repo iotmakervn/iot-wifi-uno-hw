@@ -1,4 +1,4 @@
-(module ESP-12F (layer F.Cu) (tedit 58293D96)
+(module ESP-12F (layer F.Cu) (tedit 5829A2D7)
   (descr "Module, ESP-8266, ESP-12, 16 pad, SMD")
   (tags "Module ESP-8266 ESP8266")
   (fp_text reference U5 (at -2 -2) (layer F.SilkS)
