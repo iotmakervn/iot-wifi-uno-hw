@@ -1,4 +1,4 @@
-update=Chủ nhật, 13 Tháng mười một Năm 2016 21:57:42 ICT
+update=Thứ hai, 14 Tháng mười một Năm 2016 10:49:23 ICT
 version=1
 last_client=kicad
 [pcbnew]
@@ -62,4 +62,5 @@ LibName30=lib/ESP8266
 LibName31=lib/usb_mini_b
 LibName32=lib/bb-ch340t
 LibName33=lib/CH340G
-LibName34=/home/trinhduc/Desktop/kicadlibrary/open-project
+LibName34=lib/dc-dc
+LibName35=lib/open-project
