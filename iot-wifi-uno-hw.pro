@@ -1,4 +1,4 @@
-update=Thứ hai, 14 Tháng mười một Năm 2016 10:49:23 ICT
+update=Thứ ba, 15 Tháng mười một Năm 2016 09:42:51 ICT
 version=1
 last_client=kicad
 [pcbnew]
@@ -64,3 +64,4 @@ LibName32=lib/bb-ch340t
 LibName33=lib/CH340G
 LibName34=lib/dc-dc
 LibName35=lib/open-project
+LibName36=lib/MOSFET-P
