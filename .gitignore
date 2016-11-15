@@ -7,6 +7,7 @@ fb-lib-table
 *.bck
 *.kicad_pcb-bak
 *~
+*.lib
 _autosave-*
 *.tmp
 
