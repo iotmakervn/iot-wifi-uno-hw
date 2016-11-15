@@ -254,12 +254,12 @@ F 3 "" H 6700 1850 50  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L SW_PUSH_Small_Horizontal SW1
+L SW_PUSH_Small_Horizontal RST1
 U 1 1 58270826
 P 6700 2250
-F 0 "SW1" V 6654 2338 50  0000 L CNN
+F 0 "RST1" V 6654 2338 50  0000 L CNN
 F 1 "REST" V 6745 2338 50  0000 L CNN
-F 2 "Buttons_Switches_SMD:SW_SPST_FSMSM" H 6700 2450 50  0001 C CNN
+F 2 "ESP8266:Tact_Switch_TS6X3.6" H 6700 2450 50  0001 C CNN
 F 3 "" H 6700 2450 50  0000 C CNN
 	1    6700 2250
 	0    1    1    0   
@@ -618,12 +618,12 @@ F 3 "" H 3450 2300 50  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L SW_PUSH_Small_Horizontal SW2
+L SW_PUSH_Small_Horizontal GPIO0
 U 1 1 5827B946
 P 7800 2150
-F 0 "SW2" V 7754 2238 50  0000 L CNN
+F 0 "GPIO0" V 7754 2238 50  0000 L CNN
 F 1 "GPIO0" V 7845 2238 50  0000 L CNN
-F 2 "Buttons_Switches_SMD:SW_SPST_FSMSM" H 7800 2350 50  0001 C CNN
+F 2 "ESP8266:Tact_Switch_TS6X3.6" H 7800 2350 50  0001 C CNN
 F 3 "" H 7800 2350 50  0000 C CNN
 	1    7800 2150
 	0    1    1    0   
@@ -1501,9 +1501,6 @@ Text Notes 8450 3450 0    60   ~ 0
 SCL
 Text Notes 8450 2950 0    60   ~ 0
 ADC0
-Wire Wire Line
-	9150 2050 8700 2050
-Connection ~ 8700 2050
 Text GLabel 9100 900  0    60   Input ~ 0
 CSO
 Text GLabel 9100 800  0    60   Input ~ 0
