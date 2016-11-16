@@ -1,14 +1,23 @@
-# espuno-hw
+# iot-wifi-uno-hw
 
-## Mô tả tính năng
+## Features
 
-## Phần cứng
+ESP8266 as Controller compatible with Arduino Uno:  
+- Power input 5.5V to 28VDC (1.2A/5V output) and 5V USB
+- Automatic enter program mode via Serial - Pre-program OTA firmware
+- [ESP8266 Arduino](https://github.com/esp8266/Arduino) and Arduino Library
+- Vietnamese doc support from https://esp8266.vn
+- Additional Button and LED same NodeMCU.
+- Open hardware with CC-BY-SA license
+- Design with KiCad
 
-### Mạch nguyên lý
+## Hardware
+
+### Schematics
 
 [![IoT WiFi UNO Schematic](assets/Iot-wifi-uno-hw-sch.png)](assets/Iot-wifi-uno-hw-sch.svg)
 
-### Mạch PCB
+### PCB Layout
 
 [![IoT WiFi UNO PCB](assets/Iot-wifi-uno-hw-pcb.png)](assets/Iot-wifi-uno-hw-pcb.svg)
 
@@ -16,7 +25,14 @@
 
 [![IoT WiFi UNO 3D](assets/Iot-wifi-uno-hw-3d.png)](assets/Iot-wifi-uno-hw-3d.stl)
 
+### Gerber
 
-### Film
+[Download](./assets/gerber.zip)
 
-# Giấy phép
+### BOM 
+
+(update later)
+
+# License
+
+![license](http://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-sa.png)
