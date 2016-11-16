@@ -1,4 +1,4 @@
-update=Thứ ba, 15 Tháng mười một Năm 2016 09:42:51 ICT
+update=Thứ tư, 16 Tháng mười một Năm 2016 01:19:07 ICT
 version=1
 last_client=kicad
 [pcbnew]
@@ -65,3 +65,13 @@ LibName33=lib/CH340G
 LibName34=lib/dc-dc
 LibName35=lib/open-project
 LibName36=lib/MOSFET-P
+[schematic_editor]
+version=1
+PageLayoutDescrFile=
+PlotDirectoryName=assets/
+SubpartIdSeparator=0
+SubpartFirstId=65
+NetFmtName=
+SpiceAjustPassiveValues=0
+LabSize=60
+ERC_TestSimilarLabels=1
