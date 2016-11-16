@@ -86,7 +86,7 @@
       (mirror false)
       (drillshape 0)
       (scaleselection 1)
-      (outputdirectory assets/gerber/))
+      (outputdirectory assets/))
   )
 
   (net 0 "")
