@@ -33,6 +33,10 @@ ESP8266 as Controller compatible with Arduino Uno:
 
 (update later)
 
+### Remark
+
+This project was in development phase - we will remove this remark after release
+
 # License
 
 ![license](http://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-sa.png)
