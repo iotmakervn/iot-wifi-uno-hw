@@ -1,4 +1,4 @@
-update=Thứ bảy, 19 Tháng mười một Năm 2016 16:37:02 ICT
+update=Thứ hai, 03 Tháng tư Năm 2017 11:12:13 ICT
 version=1
 last_client=kicad
 [pcbnew]
@@ -25,6 +25,16 @@ version=1
 NetIExt=net
 [general]
 version=1
+[schematic_editor]
+version=1
+PageLayoutDescrFile=
+PlotDirectoryName=assets/
+SubpartIdSeparator=0
+SubpartFirstId=65
+NetFmtName=
+SpiceAjustPassiveValues=0
+LabSize=60
+ERC_TestSimilarLabels=1
 [eeschema]
 version=1
 LibDir=
@@ -65,13 +75,4 @@ LibName33=lib/CH340G
 LibName34=lib/dc-dc
 LibName35=lib/open-project
 LibName36=lib/MOSFET-P
-[schematic_editor]
-version=1
-PageLayoutDescrFile=
-PlotDirectoryName=assets/
-SubpartIdSeparator=0
-SubpartFirstId=65
-NetFmtName=
-SpiceAjustPassiveValues=0
-LabSize=60
-ERC_TestSimilarLabels=1
+LibName37=lib/w_device

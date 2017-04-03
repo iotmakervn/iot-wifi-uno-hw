@@ -35,7 +35,7 @@ ESP8266 as Controller compatible with Arduino Uno:
 
 ### Gerber
 
-[Download](./assets/gerber.zip)
+[Download](./assets/wifi-uno-hw.zip)
 
 ### BOM 
 
