@@ -31,7 +31,7 @@ ESP8266 as Controller compatible with Arduino Uno:
 
 ### Fritzing part 
 
-[![Fritzing](assets/fritzing.png)](assets/iot-wifi-uno.fzpz)
+[![Fritzing](assets/fritzing.png)](assets/iot-wifi-uno.fzpz) 
 
 ### Gerber
 

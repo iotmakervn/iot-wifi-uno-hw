@@ -1,0 +1,475 @@
+Cmp-Mod V01 Created by PcbNew   date = 25/10/2017 3:53:16 SA
+
+BeginCmp
+TimeStamp = 59EAFA99
+Path = /5827EF39
+Reference = P4;
+ValeurCmp = CONN_01X10;
+IdModule  = Pin_Headers:Pin_Header_Angled_1x10_Pitch2.54mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 59EAFC09
+Path = /59E62B36
+Reference = U2;
+ValeurCmp = AMS1117-5;
+IdModule  = TO_SOT_Packages_SMD:SOT-223;
+EndCmp
+
+BeginCmp
+TimeStamp = 59EAFC2E
+Path = /58274236
+Reference = U3;
+ValeurCmp = CH340G;
+IdModule  = Housings_SOIC:SOIC-16_3.9x9.9mm_Pitch1.27mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 59EAF891
+Path = /5827C8C3
+Reference = C1;
+ValeurCmp = 22pF;
+IdModule  = ESP8266:C_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 59EAF89B
+Path = /5827C970
+Reference = C2;
+ValeurCmp = 22pF;
+IdModule  = ESP8266:C_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 59EAF8AB
+Path = /58293DA2
+Reference = C3;
+ValeurCmp = 10uF/50V;
+IdModule  = ESP8266:C_1210;
+EndCmp
+
+BeginCmp
+TimeStamp = 59EAF8BB
+Path = /58293CDF
+Reference = C4;
+ValeurCmp = 10uF/50V;
+IdModule  = ESP8266:C_1210;
+EndCmp
+
+BeginCmp
+TimeStamp = 59EAF8C5
+Path = /5826F6C5
+Reference = C5;
+ValeurCmp = 100nF;
+IdModule  = ESP8266:C_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 59EAF8CF
+Path = /582752BC
+Reference = C6;
+ValeurCmp = 100nF;
+IdModule  = ESP8266:C_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 59EAF8D9
+Path = /5827AED4
+Reference = C8;
+ValeurCmp = 100nF;
+IdModule  = ESP8266:C_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 59EAF8E9
+Path = /58294DE3
+Reference = C10;
+ValeurCmp = 10uF/25V;
+IdModule  = ESP8266:C_1210;
+EndCmp
+
+BeginCmp
+TimeStamp = 59EAF8F9
+Path = /58294EAD
+Reference = C11;
+ValeurCmp = 10uF/25V;
+IdModule  = ESP8266:C_1210;
+EndCmp
+
+BeginCmp
+TimeStamp = 59EAF903
+Path = /58276BE5
+Reference = C12;
+ValeurCmp = 100nF;
+IdModule  = ESP8266:C_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 59EAF913
+Path = /582B862B
+Reference = C13;
+ValeurCmp = 1uF/25V;
+IdModule  = ESP8266:C_1210;
+EndCmp
+
+BeginCmp
+TimeStamp = 59EAF91D
+Path = /582ADCB7
+Reference = C14;
+ValeurCmp = 100nF;
+IdModule  = ESP8266:C_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 59EAF927
+Path = /582B7B6C
+Reference = C15;
+ValeurCmp = 1uF/25V;
+IdModule  = ESP8266:C_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 59EAF946
+Path = /5829D5BF
+Reference = CON1;
+ValeurCmp = BARREL_JACK;
+IdModule  = Connectors:BARREL_JACK;
+EndCmp
+
+BeginCmp
+TimeStamp = 59EAF98F
+Path = /5832BE85
+Reference = D1;
+ValeurCmp = SS24;
+IdModule  = ESP8266:do214aa-g;
+EndCmp
+
+BeginCmp
+TimeStamp = 59EAF9A4
+Path = /58270698
+Reference = D2;
+ValeurCmp = LED_Blue;
+IdModule  = LEDs:LED_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 59EAF9ED
+Path = /58272D4F
+Reference = D3;
+ValeurCmp = SS24;
+IdModule  = ESP8266:do214aa-g;
+EndCmp
+
+BeginCmp
+TimeStamp = 59EAFA02
+Path = /5827DE0C
+Reference = D4;
+ValeurCmp = L_PWR;
+IdModule  = LEDs:LED_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 59EAFA19
+Path = /58E1F1B6
+Reference = D5;
+ValeurCmp = ZENER_3.3V;
+IdModule  = ESP8266:SOD-80;
+EndCmp
+
+BeginCmp
+TimeStamp = 59EAFA21
+Path = /58E1E690
+Reference = L1;
+ValeurCmp = 22uH;
+IdModule  = Choke_SMD:Choke_SMD_Wuerth-WE-PD2-Typ-MS;
+EndCmp
+
+BeginCmp
+TimeStamp = 59EAFA3F
+Path = /5827F1AC
+Reference = P1;
+ValeurCmp = CONN_01X08;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x08_Pitch1.27mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 59EAFA5D
+Path = /5827F09A
+Reference = P2;
+ValeurCmp = CONN_01X08;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x08_Pitch1.27mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 59EAFA79
+Path = /5827F548
+Reference = P3;
+ValeurCmp = CONN_01X06;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x06_Pitch1.27mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 59EAFAB3
+Path = /5827F226
+Reference = P5;
+ValeurCmp = CONN_01X04;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x04_Pitch1.27mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 59EAFAC8
+Path = /5836F6F6
+Reference = Q1;
+ValeurCmp = MMBT8050LT1G_BEC;
+IdModule  = TO_SOT_Packages_SMD:SOT-23;
+EndCmp
+
+BeginCmp
+TimeStamp = 59EAFADD
+Path = /583709CC
+Reference = Q2;
+ValeurCmp = MMBT8050LT1G_BEC;
+IdModule  = TO_SOT_Packages_SMD:SOT-23;
+EndCmp
+
+BeginCmp
+TimeStamp = 59EAFAE7
+Path = /5826F22A
+Reference = R1;
+ValeurCmp = 10k;
+IdModule  = ESP8266:R_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 59EAFAF1
+Path = /5826F2A7
+Reference = R2;
+ValeurCmp = 10k;
+IdModule  = ESP8266:R_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 59EAFAFB
+Path = /5826F2D6
+Reference = R3;
+ValeurCmp = 10k;
+IdModule  = ESP8266:R_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 59EAFB05
+Path = /5826F2FA
+Reference = R4;
+ValeurCmp = 10k;
+IdModule  = ESP8266:R_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 59EAFB0F
+Path = /5826F325
+Reference = R5;
+ValeurCmp = 10k;
+IdModule  = ESP8266:R_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 59EAFB19
+Path = /582753E2
+Reference = R6;
+ValeurCmp = 470R;
+IdModule  = ESP8266:R_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 59EAFB23
+Path = /5827588A
+Reference = R7;
+ValeurCmp = 470R;
+IdModule  = ESP8266:R_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 59EAFB2D
+Path = /582944E3
+Reference = R8;
+ValeurCmp = 52.5K;
+IdModule  = ESP8266:R_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 59EAFB37
+Path = /582945F5
+Reference = R9;
+ValeurCmp = 10k;
+IdModule  = ESP8266:R_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 59EAFB41
+Path = /582742CA
+Reference = R10;
+ValeurCmp = 10K;
+IdModule  = ESP8266:R_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 59EAFB4B
+Path = /582741A5
+Reference = R11;
+ValeurCmp = 10K;
+IdModule  = ESP8266:R_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 59EAFB55
+Path = /58270616
+Reference = R12;
+ValeurCmp = 470R;
+IdModule  = ESP8266:R_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 59EAFB5F
+Path = /5827078B
+Reference = R13;
+ValeurCmp = 0R;
+IdModule  = ESP8266:R_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 59EAFB69
+Path = /5829A901
+Reference = R14;
+ValeurCmp = 470R;
+IdModule  = ESP8266:R_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 59EAFB73
+Path = /5827352C
+Reference = R15;
+ValeurCmp = 220k/1%;
+IdModule  = ESP8266:R_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 59EAFB7D
+Path = /582735DB
+Reference = R16;
+ValeurCmp = 100k/1%;
+IdModule  = ESP8266:R_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 59EAFB87
+Path = /5829A41E
+Reference = R17;
+ValeurCmp = 470R;
+IdModule  = ESP8266:R_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 59EAFB91
+Path = /582A9977
+Reference = R18;
+ValeurCmp = 10k;
+IdModule  = ESP8266:R_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 59EAFB9B
+Path = /582A9A68
+Reference = R19;
+ValeurCmp = 10k;
+IdModule  = ESP8266:R_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 59EAFBA5
+Path = /582B65B3
+Reference = R20;
+ValeurCmp = 3K/1%;
+IdModule  = ESP8266:R_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 59EAFBAF
+Path = /582B6679
+Reference = R21;
+ValeurCmp = 1K/1%;
+IdModule  = ESP8266:R_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 59EAFBB9
+Path = /5827DE06
+Reference = R22;
+ValeurCmp = 470R;
+IdModule  = ESP8266:R_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 59EAFBCB
+Path = /58E1D83A
+Reference = SW1;
+ValeurCmp = RST;
+IdModule  = ESP8266:Tact_Switch_TS6X3.6;
+EndCmp
+
+BeginCmp
+TimeStamp = 59EAFBDD
+Path = /58E1E01A
+Reference = SW2;
+ValeurCmp = GPIO0;
+IdModule  = ESP8266:Tact_Switch_TS6X3.6;
+EndCmp
+
+BeginCmp
+TimeStamp = 59EAFBF3
+Path = /58273EBA
+Reference = U1;
+ValeurCmp = usb_mini_b;
+IdModule  = Connectors:USB_Micro-B;
+EndCmp
+
+BeginCmp
+TimeStamp = 59EAFC59
+Path = /58293DE4
+Reference = U4;
+ValeurCmp = ESP-12E;
+IdModule  = ESP8266:ESP-12F;
+EndCmp
+
+BeginCmp
+TimeStamp = 59EAFC6E
+Path = /582B2340
+Reference = U5;
+ValeurCmp = MCP6001R;
+IdModule  = TO_SOT_Packages_SMD:SOT-23-5;
+EndCmp
+
+BeginCmp
+TimeStamp = 59EAFC84
+Path = /59E71EF9
+Reference = U6;
+ValeurCmp = AMS1117-3.3;
+IdModule  = TO_SOT_Packages_SMD:SOT-223;
+EndCmp
+
+BeginCmp
+TimeStamp = 59EAFC99
+Path = /582A7F7A
+Reference = U7;
+ValeurCmp = IRLM6402;
+IdModule  = TO_SOT_Packages_SMD:SOT-23;
+EndCmp
+
+BeginCmp
+TimeStamp = 59EAFCAD
+Path = /5827C513
+Reference = X1;
+ValeurCmp = CRYSTAL_ABM3C;
+IdModule  = ESP8266:Crystal_SMD_3225_4Pads;
+EndCmp
+
+EndListe
